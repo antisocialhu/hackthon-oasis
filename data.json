@@ -1,33 +1,53 @@
 {
-	{
-		"Name:"Naman"
-		"Fathers Name:"abc"
-		"Age:"26"
-		"Epic Number:"123456"
+	"person": [{
+		"Epic_no" : "aws1234567",
+		"Name" : "Gaurav Sharma",
+		"age" : 18,
+		"father_name" :"Ajeet Kumar",
+		"husband_name":"None",
+		"sex" : "male",
+		"house no" : "F-73",
+		"poll booth" : 1,
+		"district" : "nangloi",
+		"state" : "Delhi"
 	},
-	{
-		"Name:"Prince"
-		"Fathers Name:"abc"
-		"Age:"25"
-		"Epic Number:"789012"
-	},
-	{
-		"Name:"Dev"
-		"Fathers Name:"def"
-		"Age:"21"
-		"Epic Number:"235689"
-	},
-	{
-		"Name:"Vaibhav"
-		"Fathers Name:"ghi"
-		"Age:"20"
-		"Epic Number:"124578"
-	}
-	{
-		"Name:"Gaurav"
-		"Fathers Name:"jkl"
-		"Age:"24"
-		"Epic Number:"748596"
-	},
-}
 
+	{
+		"Epic_no" : "aws1544867",
+		"Name" : "Sushil Sharma",
+		"age" : 24,
+		"father_name" :"Ajeet Kumar",
+		"husband_name":"None",
+		"sex" : "male",
+		"house no" : "F-73",
+		"poll booth" : 1,
+		"district" : "nangloi",
+		"state" : "Delhi"
+	},
+
+	{
+		"Epic_no" : "aws1834567",
+		"Name" : "Savitri Sharma",
+		"age" : 42,
+		"father_name" :"None",
+		"husband_name":"Ajeet Kumar",
+		"sex" : "Female",
+		"house no" : "F-73",
+		"poll booth" : 1,
+		"district" : "nangloi",
+		"state" : "Delhi"
+	},
+
+	{
+		"Epic_no" : "aws1234898",
+		"Name" : "Ajeet Kumar",
+		"age" : 55,
+		"father_name" :"Jai Dev",
+		"husband_name":"None",
+		"sex" : "male",
+		"house no" : "F-73",
+		"poll booth" : 1,
+		"district" : "nangloi",
+		"state" : "Delhi"
+	}]
+}
